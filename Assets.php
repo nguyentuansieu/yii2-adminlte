@@ -1,5 +1,5 @@
 <?php
-namespace sieulog\adminlte;
+namespace onecms\adminlte;
 
 use yii\web\AssetBundle;
 
@@ -21,7 +21,7 @@ class Assets extends AssetBundle
         'yii\web\JqueryAsset',
         'yii\bootstrap\BootstrapAsset',
         'yii\bootstrap\BootstrapPluginAsset',
-        'sieulog\adminlte\FontAwesomeAssets',
-        'sieulog\adminlte\IoniconAssets'
+        'onecms\adminlte\FontAwesomeAssets',
+        'onecms\adminlte\IoniconAssets'
     ];
 }

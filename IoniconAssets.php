@@ -1,5 +1,5 @@
 <?php
-namespace sieulog\adminlte;
+namespace onecms\adminlte;
 
 use yii\web\AssetBundle;
 
